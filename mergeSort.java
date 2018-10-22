@@ -1,3 +1,8 @@
+/*
+    Author : Khizar Malik
+    Date : 22 Oct 2018
+*/
+
 public class mergeSort{
     public static void main(String[] args){
         int[] A = {10,9,7,6,5,4,3,2,1};
